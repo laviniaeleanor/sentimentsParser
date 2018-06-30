@@ -1,5 +1,5 @@
-const parseComments = require("sentiments-parser")
-const getRanking = require("sentiments-parser")
+const {parseComments} = require("./index.js")
+const {getRanking} = require("./index.js")
 
 //command line styling
 const bright = "\x1b[0m\x1b[1m"

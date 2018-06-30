@@ -37,6 +37,7 @@ in the command line to see how it works.
     
     
  ## Example Outcome
+ The score consist in the percentage of the amount of space the occurring words take up in a comment
  
        {
          comment: "Delightful =) Adore the use of gradient and background!",

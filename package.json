@@ -1,0 +1,24 @@
+{
+  "name": "sentiments-parser",
+  "version": "1.0.0",
+  "description": "An npm Package for Node.js to analyze the content of comments based on categories of words",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laviniaeleanor/sentimentsParser.git"
+  },
+  "keywords": [
+    "sentiment",
+    "parse",
+    "analyze"
+  ],
+  "author": "laviniaeleanor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laviniaeleanor/sentimentsParser/issues"
+  },
+  "homepage": "https://github.com/laviniaeleanor/sentimentsParser#readme"
+}

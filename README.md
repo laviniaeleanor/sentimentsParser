@@ -11,6 +11,7 @@ To run the demo, clone the repo and run
 ## Basic Usage 
 
     
+    const { parseComments } = require("sentiments-parser")
     
     const comments = [
     "This is nice work :)",

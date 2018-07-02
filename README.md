@@ -3,11 +3,10 @@
 ## Description
 An npm Package for Node.js to analyze the content of comments based on categories of words.
 
-Run
+To run the demo, clone the repo and run
 
     $ node demo.js 
     
-in the command line to see how it works. 
 
 ## Basic Usage 
 
